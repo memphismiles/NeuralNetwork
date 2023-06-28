@@ -1,1 +1,3 @@
 # NeuralNetwork
+
+This is my final project for my MATLAB course at UCLA. Attached in this repository is a main script .m file, where I implement mini-batch gradient descent to perform backwards propagation to optimize a neural network that inputs a vectorized image of a hand-drawn digit and outputs a probability vector for classifying that digit. The model is easily customizable, as hyperparameters such as the number of training epochs, the learning rate, and the number of hidden layers can be changed. In this repository, there are also all the function .m files used in this process. Lastly, there is a pdf report that explains every function and the entire process, along with my findings. 
